@@ -12,7 +12,7 @@ Every query in this project is annotated with its business question and the find
 
 ---
 
-## Preview
+## Analysis Snippet
 
 ![SQL Analysis Preview](sql_analysis_snippet.png)
 
