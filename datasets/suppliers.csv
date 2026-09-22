@@ -1,0 +1,251 @@
+Supplier_ID,Supplier_Name,Supplier_Type,City,State,Region,Payment_Terms
+3000,Eagle Materials Group,Importer,Chicago,Illinois,Midwest,Net 30
+3001,Precision Fabrication,Manufacturer,Baltimore,Maryland,Northeast,Due on Receipt
+3002,Titan Solutions Inc.,Manufacturer,Dallas,Texas,South,Net 15
+3003,National Tooling Co.,Manufacturer,Portland,Oregon,West,Due on Receipt
+3004,National Packaging Co.,Wholesale Distributor,Detroit,Michigan,Midwest,Net 60
+3005,Coastal Hardware Supply,Manufacturer,Sacramento,California,West,Net 30
+3006,Omega Solutions Inc.,Importer,Boston,Massachusetts,Northeast,Net 30
+3007,National Systems Inc.,Manufacturer,Phoenix,Arizona,West,Net 60
+3008,BlueRock Holdings,Importer,Raleigh,North Carolina,South,Due on Receipt
+3009,Vertex Manufacturing Co.,Fabricator,Baltimore,Maryland,Northeast,Due on Receipt
+3010,BlueRock Equipment Co.,Importer,Atlanta,Georgia,South,Due on Receipt
+3011,Rocky Mountain Holdings,Wholesale Distributor,Milwaukee,Wisconsin,Midwest,Net 15
+3012,Atlas Tooling Co.,Importer,San Antonio,Texas,South,Net 15
+3013,Plains Tooling Co.,Manufacturer,Raleigh,North Carolina,South,Net 60
+3014,Vertex Logistics Group,Importer,Pittsburgh,Pennsylvania,Northeast,Net 30
+3015,Union Holdings,Importer,Charlotte,North Carolina,South,Net 15
+3016,Heritage Distributors,Wholesale Distributor,Kansas City,Missouri,Midwest,Net 30
+3017,Granite Equipment Co.,Wholesale Distributor,Los Angeles,California,West,Net 45
+3018,Northeast Manufacturing Co.,Manufacturer,Seattle,Washington,West,Net 45
+3019,Keystone Hardware Supply,Wholesale Distributor,Atlanta,Georgia,South,Due on Receipt
+3020,Rocky Mountain Systems Inc.,Fabricator,Charlotte,North Carolina,South,Net 60
+3021,Rocky Mountain Logistics Group,Importer,Columbus,Ohio,Midwest,Net 30
+3022,Precision Packaging Co.,Importer,Kansas City,Missouri,Midwest,Due on Receipt
+3023,Cascade Equipment Co.,Wholesale Distributor,Philadelphia,Pennsylvania,Northeast,Net 30
+3024,Frontier Metalworks,Manufacturer,Atlanta,Georgia,South,Net 15
+3025,Ironforge Distributors,Fabricator,Sacramento,California,West,Due on Receipt
+3026,Titan Equipment Co.,Fabricator,Houston,Texas,South,Due on Receipt
+3027,Vertex Packaging Co.,Manufacturer,Raleigh,North Carolina,South,Net 15
+3028,Delta Packaging Co.,Importer,San Antonio,Texas,South,Net 45
+3029,BlueRock Industries,Wholesale Distributor,Detroit,Michigan,Midwest,Net 60
+3030,Midwest Hardware Supply,Wholesale Distributor,Portland,Oregon,West,Due on Receipt
+3031,Gulf Coast Materials Group,Importer,Raleigh,North Carolina,South,Due on Receipt
+3032,Heritage Products Inc.,Importer,Columbus,Ohio,Midwest,Net 30
+3033,Sterling Plastics Inc.,Manufacturer,Tucson,Arizona,West,Due on Receipt
+3034,Continental Metalworks,Manufacturer,Chicago,Illinois,Midwest,Net 45
+3035,Rocky Mountain Industries,Manufacturer,Seattle,Washington,West,Net 30
+3036,Rocky Mountain Industrial Supply,Fabricator,Atlanta,Georgia,South,Net 15
+3037,Great Lakes Packaging Co.,Wholesale Distributor,San Antonio,Texas,South,Net 30
+3038,Delta Metalworks,Wholesale Distributor,Kansas City,Missouri,Midwest,Net 45
+3039,Frontier Solutions Inc.,Wholesale Distributor,Charlotte,North Carolina,South,Net 45
+3040,Keystone Holdings,Fabricator,Minneapolis,Minnesota,Midwest,Net 15
+3041,Precision Tooling Co.,Importer,Atlanta,Georgia,South,Net 15
+3042,Coastal Packaging Co.,Wholesale Distributor,Seattle,Washington,West,Net 15
+3043,Titan Manufacturing Co.,Manufacturer,Seattle,Washington,West,Net 15
+3044,Plains Systems Inc.,Wholesale Distributor,Atlanta,Georgia,South,Net 45
+3045,Ironforge Metalworks,Fabricator,Seattle,Washington,West,Net 60
+3046,National Materials Group,Fabricator,Phoenix,Arizona,West,Net 45
+3047,Cascade Solutions Inc.,Manufacturer,Minneapolis,Minnesota,Midwest,Net 15
+3048,Atlas Equipment Co.,Importer,Baltimore,Maryland,Northeast,Net 15
+3049,Precision Products Inc.,Fabricator,Charlotte,North Carolina,South,Net 30
+3050,Cascade Distributors,Fabricator,Los Angeles,California,West,Net 30
+3051,Plains Industrial Supply,Manufacturer,Minneapolis,Minnesota,Midwest,Net 15
+3052,Eagle Packaging Co.,Manufacturer,Cleveland,Ohio,Midwest,Net 15
+3053,Gulf Coast Tooling Co.,Fabricator,Denver,Colorado,West,Net 60
+3054,Liberty Products Inc.,Fabricator,Raleigh,North Carolina,South,Net 15
+3055,Summit Equipment Co.,Fabricator,Chicago,Illinois,Midwest,Net 45
+3056,Gulf Coast Logistics Group,Fabricator,Newark,New Jersey,Northeast,Due on Receipt
+3057,Ironforge Products Inc.,Wholesale Distributor,Newark,New Jersey,Northeast,Net 15
+3058,Atlas Systems Inc.,Manufacturer,Dallas,Texas,South,Due on Receipt
+3059,Liberty Plastics Inc.,Wholesale Distributor,Tucson,Arizona,West,Net 15
+3060,Frontier Industrial Supply,Wholesale Distributor,Raleigh,North Carolina,South,Net 15
+3061,Heritage Industrial Supply,Wholesale Distributor,Salt Lake City,Utah,West,Net 60
+3062,BlueRock Tooling Co.,Manufacturer,Milwaukee,Wisconsin,Midwest,Due on Receipt
+3063,Delta Plastics Inc.,Importer,Boston,Massachusetts,Northeast,Net 30
+3064,Delta Systems Inc.,Importer,Seattle,Washington,West,Net 60
+3065,Ironforge Industries,Importer,Minneapolis,Minnesota,Midwest,Net 15
+3066,Midwest Logistics Group,Manufacturer,Orlando,Florida,South,Net 15
+3067,Sterling Products Inc.,Importer,Portland,Oregon,West,Net 30
+3068,Gulf Coast Holdings,Manufacturer,Albany,New York,Northeast,Net 30
+3069,Union Industries,Fabricator,Denver,Colorado,West,Due on Receipt
+3070,Omega Industries,Manufacturer,Orlando,Florida,South,Due on Receipt
+3071,Pinnacle Materials Group,Wholesale Distributor,Albany,New York,Northeast,Net 45
+3072,BlueRock Materials Group,Wholesale Distributor,Baltimore,Maryland,Northeast,Net 45
+3073,Pinnacle Products Inc.,Importer,Indianapolis,Indiana,Midwest,Net 30
+3074,Delta Hardware Supply,Fabricator,Portland,Oregon,West,Net 45
+3075,Rocky Mountain Manufacturing Co.,Fabricator,Atlanta,Georgia,South,Net 45
+3076,Atlas Components Inc.,Wholesale Distributor,Boston,Massachusetts,Northeast,Net 45
+3077,Summit Logistics Group,Fabricator,Kansas City,Missouri,Midwest,Due on Receipt
+3078,Midwest Materials Group,Wholesale Distributor,Atlanta,Georgia,South,Due on Receipt
+3079,Atlas Holdings,Wholesale Distributor,Milwaukee,Wisconsin,Midwest,Net 60
+3080,Ironforge Manufacturing Co.,Importer,Newark,New Jersey,Northeast,Net 15
+3081,Delta Materials Group,Fabricator,Philadelphia,Pennsylvania,Northeast,Due on Receipt
+3082,Pacific Fabrication,Wholesale Distributor,Tucson,Arizona,West,Net 30
+3083,Southern Distributors,Fabricator,Albany,New York,Northeast,Net 15
+3084,Summit Systems Inc.,Fabricator,Sacramento,California,West,Net 30
+3085,Vertex Distributors,Manufacturer,Sacramento,California,West,Net 60
+3086,Plains Manufacturing Co.,Fabricator,Raleigh,North Carolina,South,Net 30
+3087,National Logistics Group,Importer,Philadelphia,Pennsylvania,Northeast,Net 30
+3088,Precision Components Inc.,Wholesale Distributor,Salt Lake City,Utah,West,Net 60
+3089,Continental Hardware Supply,Manufacturer,Raleigh,North Carolina,South,Net 45
+3090,Union Plastics Inc.,Importer,Houston,Texas,South,Net 15
+3091,BlueRock Hardware Supply,Importer,Denver,Colorado,West,Net 15
+3092,BlueRock Solutions Inc.,Importer,Philadelphia,Pennsylvania,Northeast,Net 60
+3093,Heritage Plastics Inc.,Fabricator,Phoenix,Arizona,West,Due on Receipt
+3094,National Hardware Supply,Fabricator,Dallas,Texas,South,Net 15
+3095,Frontier Packaging Co.,Wholesale Distributor,Salt Lake City,Utah,West,Net 45
+3096,Cascade Industrial Supply,Importer,Salt Lake City,Utah,West,Due on Receipt
+3097,Continental Materials Group,Importer,Baltimore,Maryland,Northeast,Due on Receipt
+3098,Pinnacle Solutions Inc.,Fabricator,Boston,Massachusetts,Northeast,Net 45
+3099,Sterling Fabrication,Fabricator,Charlotte,North Carolina,South,Net 60
+3100,Delta Distributors,Importer,Orlando,Florida,South,Net 60
+3101,Sterling Components Inc.,Importer,Newark,New Jersey,Northeast,Net 30
+3102,Cascade Systems Inc.,Fabricator,Minneapolis,Minnesota,Midwest,Net 60
+3103,Delta Products Inc.,Fabricator,Portland,Oregon,West,Net 30
+3104,Delta Industrial Supply,Importer,Newark,New Jersey,Northeast,Net 15
+3105,Northeast Tooling Co.,Importer,Salt Lake City,Utah,West,Net 30
+3106,Southern Products Inc.,Manufacturer,Columbus,Ohio,Midwest,Net 15
+3107,Precision Metalworks,Manufacturer,Orlando,Florida,South,Net 60
+3108,Cascade Products Inc.,Fabricator,Indianapolis,Indiana,Midwest,Net 60
+3109,Keystone Tooling Co.,Manufacturer,Columbus,Ohio,Midwest,Net 15
+3110,Great Lakes Solutions Inc.,Wholesale Distributor,Seattle,Washington,West,Due on Receipt
+3111,Granite Manufacturing Co.,Wholesale Distributor,Kansas City,Missouri,Midwest,Net 15
+3112,Granite Fabrication,Fabricator,Sacramento,California,West,Due on Receipt
+3113,Sterling Systems Inc.,Fabricator,San Antonio,Texas,South,Due on Receipt
+3114,Northeast Plastics Inc.,Fabricator,Detroit,Michigan,Midwest,Net 30
+3115,Pacific Metalworks,Importer,Minneapolis,Minnesota,Midwest,Net 30
+3116,Northeast Hardware Supply,Fabricator,San Antonio,Texas,South,Net 30
+3117,Titan Industries,Importer,Seattle,Washington,West,Net 45
+3118,Continental Packaging Co.,Wholesale Distributor,Atlanta,Georgia,South,Net 30
+3119,Precision Equipment Co.,Wholesale Distributor,Indianapolis,Indiana,Midwest,Net 30
+3120,Sterling Logistics Group,Manufacturer,Detroit,Michigan,Midwest,Net 30
+3121,Northeast Solutions Inc.,Manufacturer,Houston,Texas,South,Due on Receipt
+3122,Keystone Metalworks,Importer,Chicago,Illinois,Midwest,Net 45
+3123,Great Lakes Equipment Co.,Fabricator,Raleigh,North Carolina,South,Due on Receipt
+3124,Pacific Packaging Co.,Wholesale Distributor,Sacramento,California,West,Net 60
+3125,Precision Hardware Supply,Fabricator,Detroit,Michigan,Midwest,Net 15
+3126,Keystone Systems Inc.,Fabricator,Salt Lake City,Utah,West,Net 30
+3127,Northeast Logistics Group,Wholesale Distributor,Tucson,Arizona,West,Due on Receipt
+3128,Gulf Coast Equipment Co.,Manufacturer,Milwaukee,Wisconsin,Midwest,Net 15
+3129,Eagle Solutions Inc.,Fabricator,Columbus,Ohio,Midwest,Net 30
+3130,Atlas Hardware Supply,Importer,Houston,Texas,South,Net 30
+3131,Granite Systems Inc.,Fabricator,Boston,Massachusetts,Northeast,Net 45
+3132,Vertex Industrial Supply,Manufacturer,Nashville,Tennessee,South,Due on Receipt
+3133,Precision Industrial Supply,Manufacturer,San Antonio,Texas,South,Net 15
+3134,Northeast Components Inc.,Wholesale Distributor,Orlando,Florida,South,Net 30
+3135,Coastal Products Inc.,Importer,Minneapolis,Minnesota,Midwest,Net 45
+3136,Summit Materials Group,Wholesale Distributor,San Antonio,Texas,South,Net 45
+3137,BlueRock Components Inc.,Importer,Tucson,Arizona,West,Due on Receipt
+3138,Delta Equipment Co.,Wholesale Distributor,Houston,Texas,South,Net 15
+3139,Coastal Tooling Co.,Importer,Phoenix,Arizona,West,Due on Receipt
+3140,Southern Materials Group,Manufacturer,Sacramento,California,West,Net 45
+3141,Sterling Solutions Inc.,Importer,Salt Lake City,Utah,West,Net 15
+3142,Frontier Systems Inc.,Fabricator,Chicago,Illinois,Midwest,Net 60
+3143,Union Logistics Group,Wholesale Distributor,Indianapolis,Indiana,Midwest,Net 60
+3144,Summit Plastics Inc.,Importer,Pittsburgh,Pennsylvania,Northeast,Due on Receipt
+3145,Southern Packaging Co.,Fabricator,San Antonio,Texas,South,Net 60
+3146,Cascade Hardware Supply,Wholesale Distributor,Boston,Massachusetts,Northeast,Net 15
+3147,Precision Logistics Group,Fabricator,Milwaukee,Wisconsin,Midwest,Net 45
+3148,Midwest Metalworks,Importer,Raleigh,North Carolina,South,Net 30
+3149,Union Hardware Supply,Importer,Boston,Massachusetts,Northeast,Due on Receipt
+3150,Omega Hardware Supply,Manufacturer,Kansas City,Missouri,Midwest,Due on Receipt
+3151,National Industrial Supply,Fabricator,Seattle,Washington,West,Net 60
+3152,Sterling Tooling Co.,Fabricator,Indianapolis,Indiana,Midwest,Net 60
+3153,Granite Components Inc.,Importer,Atlanta,Georgia,South,Net 30
+3154,Pinnacle Holdings,Importer,Nashville,Tennessee,South,Net 60
+3155,Continental Holdings,Fabricator,Indianapolis,Indiana,Midwest,Net 45
+3156,Pinnacle Hardware Supply,Manufacturer,Seattle,Washington,West,Net 30
+3157,Great Lakes Distributors,Wholesale Distributor,Charlotte,North Carolina,South,Net 60
+3158,Vertex Plastics Inc.,Importer,Orlando,Florida,South,Net 15
+3159,Northeast Products Inc.,Wholesale Distributor,Newark,New Jersey,Northeast,Net 45
+3160,Summit Industries,Wholesale Distributor,Chicago,Illinois,Midwest,Net 45
+3161,Atlas Manufacturing Co.,Importer,Kansas City,Missouri,Midwest,Net 30
+3162,Eagle Metalworks,Manufacturer,Phoenix,Arizona,West,Due on Receipt
+3163,Pinnacle Metalworks,Fabricator,Nashville,Tennessee,South,Net 45
+3164,Summit Manufacturing Co.,Fabricator,Los Angeles,California,West,Net 15
+3165,Northeast Industrial Supply,Fabricator,Houston,Texas,South,Net 15
+3166,Coastal Manufacturing Co.,Wholesale Distributor,Columbus,Ohio,Midwest,Due on Receipt
+3167,Pinnacle Industrial Supply,Manufacturer,Seattle,Washington,West,Due on Receipt
+3168,Heritage Tooling Co.,Fabricator,San Antonio,Texas,South,Net 60
+3169,Pinnacle Manufacturing Co.,Manufacturer,Orlando,Florida,South,Net 30
+3170,Eagle Products Inc.,Manufacturer,Los Angeles,California,West,Net 30
+3171,Precision Distributors,Manufacturer,Kansas City,Missouri,Midwest,Net 30
+3172,Midwest Solutions Inc.,Fabricator,Minneapolis,Minnesota,Midwest,Net 45
+3173,Pinnacle Industries,Fabricator,Indianapolis,Indiana,Midwest,Net 15
+3174,Delta Tooling Co.,Importer,Tucson,Arizona,West,Due on Receipt
+3175,Cascade Materials Group,Wholesale Distributor,Kansas City,Missouri,Midwest,Net 30
+3176,Gulf Coast Hardware Supply,Wholesale Distributor,Cleveland,Ohio,Midwest,Net 15
+3177,Atlas Distributors,Importer,Sacramento,California,West,Due on Receipt
+3178,Pacific Industries,Manufacturer,Minneapolis,Minnesota,Midwest,Net 60
+3179,Omega Equipment Co.,Fabricator,Los Angeles,California,West,Net 60
+3180,Rocky Mountain Solutions Inc.,Importer,Baltimore,Maryland,Northeast,Due on Receipt
+3181,Vertex Components Inc.,Wholesale Distributor,Atlanta,Georgia,South,Due on Receipt
+3182,Coastal Components Inc.,Importer,San Antonio,Texas,South,Due on Receipt
+3183,Eagle Logistics Group,Importer,Tucson,Arizona,West,Net 30
+3184,Coastal Solutions Inc.,Fabricator,Pittsburgh,Pennsylvania,Northeast,Net 15
+3185,Liberty Holdings,Importer,Detroit,Michigan,Midwest,Net 45
+3186,Plains Distributors,Fabricator,Boston,Massachusetts,Northeast,Net 60
+3187,Pinnacle Equipment Co.,Manufacturer,Cleveland,Ohio,Midwest,Net 60
+3188,Titan Systems Inc.,Importer,Los Angeles,California,West,Net 15
+3189,Plains Plastics Inc.,Manufacturer,Cleveland,Ohio,Midwest,Due on Receipt
+3190,Granite Solutions Inc.,Wholesale Distributor,Dallas,Texas,South,Due on Receipt
+3191,Union Metalworks,Fabricator,Pittsburgh,Pennsylvania,Northeast,Net 15
+3192,Gulf Coast Industries,Fabricator,Minneapolis,Minnesota,Midwest,Net 15
+3193,Midwest Tooling Co.,Wholesale Distributor,Indianapolis,Indiana,Midwest,Net 45
+3194,Titan Tooling Co.,Manufacturer,Cleveland,Ohio,Midwest,Net 60
+3195,BlueRock Fabrication,Importer,Nashville,Tennessee,South,Due on Receipt
+3196,Cascade Metalworks,Wholesale Distributor,Nashville,Tennessee,South,Net 60
+3197,Keystone Products Inc.,Wholesale Distributor,Tucson,Arizona,West,Net 15
+3198,Vertex Solutions Inc.,Importer,Boston,Massachusetts,Northeast,Net 15
+3199,Northeast Metalworks,Wholesale Distributor,Raleigh,North Carolina,South,Net 60
+3200,Sterling Metalworks,Importer,Philadelphia,Pennsylvania,Northeast,Due on Receipt
+3201,Keystone Logistics Group,Importer,Tucson,Arizona,West,Net 30
+3202,Omega Tooling Co.,Fabricator,Milwaukee,Wisconsin,Midwest,Net 30
+3203,Plains Solutions Inc.,Importer,Dallas,Texas,South,Net 60
+3204,Keystone Fabrication,Manufacturer,Nashville,Tennessee,South,Net 30
+3205,Plains Materials Group,Fabricator,Raleigh,North Carolina,South,Net 15
+3206,Frontier Logistics Group,Wholesale Distributor,Chicago,Illinois,Midwest,Net 60
+3207,Plains Fabrication,Fabricator,Atlanta,Georgia,South,Net 45
+3208,Continental Equipment Co.,Manufacturer,Pittsburgh,Pennsylvania,Northeast,Net 45
+3209,Plains Packaging Co.,Importer,Houston,Texas,South,Net 60
+3210,Atlas Industrial Supply,Importer,Seattle,Washington,West,Net 30
+3211,Pacific Industrial Supply,Manufacturer,Detroit,Michigan,Midwest,Net 15
+3212,Granite Distributors,Importer,Indianapolis,Indiana,Midwest,Net 15
+3213,Southern Manufacturing Co.,Importer,Newark,New Jersey,Northeast,Net 45
+3214,Cascade Fabrication,Fabricator,Seattle,Washington,West,Due on Receipt
+3215,Summit Distributors,Fabricator,Atlanta,Georgia,South,Due on Receipt
+3216,Liberty Fabrication,Fabricator,Seattle,Washington,West,Net 45
+3217,Granite Hardware Supply,Manufacturer,Salt Lake City,Utah,West,Net 60
+3218,Summit Industrial Supply,Importer,Minneapolis,Minnesota,Midwest,Due on Receipt
+3219,Granite Industries,Fabricator,Charlotte,North Carolina,South,Net 60
+3220,Coastal Industries,Importer,Indianapolis,Indiana,Midwest,Net 15
+3221,Northeast Equipment Co.,Manufacturer,Los Angeles,California,West,Due on Receipt
+3222,Gulf Coast Metalworks,Importer,Cleveland,Ohio,Midwest,Net 30
+3223,Heritage Holdings,Wholesale Distributor,Seattle,Washington,West,Due on Receipt
+3224,Vertex Fabrication,Manufacturer,Pittsburgh,Pennsylvania,Northeast,Net 15
+3225,Pinnacle Logistics Group,Importer,Dallas,Texas,South,Net 30
+3226,Continental Solutions Inc.,Wholesale Distributor,Denver,Colorado,West,Net 30
+3227,Frontier Plastics Inc.,Importer,Tucson,Arizona,West,Net 30
+3228,Vertex Metalworks,Importer,Sacramento,California,West,Net 45
+3229,Granite Industrial Supply,Wholesale Distributor,Columbus,Ohio,Midwest,Net 60
+3230,Union Industrial Supply,Fabricator,Sacramento,California,West,Net 15
+3231,BlueRock Logistics Group,Importer,Philadelphia,Pennsylvania,Northeast,Due on Receipt
+3232,Liberty Components Inc.,Importer,Orlando,Florida,South,Due on Receipt
+3233,Ironforge Equipment Co.,Importer,Minneapolis,Minnesota,Midwest,Due on Receipt
+3234,Heritage Solutions Inc.,Manufacturer,Los Angeles,California,West,Net 45
+3235,Granite Tooling Co.,Importer,Raleigh,North Carolina,South,Net 15
+3236,Delta Holdings,Importer,Kansas City,Missouri,Midwest,Net 15
+3237,Plains Logistics Group,Wholesale Distributor,Atlanta,Georgia,South,Due on Receipt
+3238,Midwest Manufacturing Co.,Importer,Sacramento,California,West,Net 30
+3239,Titan Packaging Co.,Wholesale Distributor,Charlotte,North Carolina,South,Net 30
+3240,Continental Fabrication,Manufacturer,Sacramento,California,West,Net 45
+3241,Ironforge Packaging Co.,Wholesale Distributor,Los Angeles,California,West,Net 15
+3242,Delta Components Inc.,Manufacturer,Columbus,Ohio,Midwest,Net 45
+3243,Southern Tooling Co.,Importer,Milwaukee,Wisconsin,Midwest,Net 15
+3244,Summit Hardware Supply,Wholesale Distributor,Dallas,Texas,South,Net 60
+3245,Frontier Materials Group,Manufacturer,Baltimore,Maryland,Northeast,Net 60
+3246,Granite Holdings,Manufacturer,Portland,Oregon,West,Net 60
+3247,Frontier Tooling Co.,Manufacturer,Orlando,Florida,South,Due on Receipt
+3248,Eagle Components Inc.,Fabricator,Dallas,Texas,South,Net 60
+3249,Liberty Logistics Group,Manufacturer,Atlanta,Georgia,South,Net 45
