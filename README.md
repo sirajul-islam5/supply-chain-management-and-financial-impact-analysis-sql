@@ -1,6 +1,6 @@
 # Supply Chain Management & Financial Impact Analysis — SQL Project
 
-An SQL project analyzing a multi-table supply chain dataset across sales performance, product profitability, supplier evaluation, delivery efficiency, and shipping cost impact. All analysis was performed in MySQL using a structured 4-table relational database covering 100,000+ order records. 
+An SQL project analyzing a multi-table supply chain dataset across sales performance, product profitability, supplier evaluation, delivery efficiency, and shipping cost impact. All analysis was performed in MySQL using a structured 4-table relational database covering 100,000+ order records.  
 
 ---
 
